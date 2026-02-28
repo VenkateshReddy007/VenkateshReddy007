@@ -1,30 +1,25 @@
-<h1 align="center">Venkatesh Reddy K 🧠</h1>
-<h3 align="center">ISE Undergraduate | 9.45 CGPA | System Thinker | Builder</h3>
+<h1 align="center">Venkatesh Reddy K</h1>
+<h3 align="center">Information Science & Engineering Undergraduate | CGPA: 9.45</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Precision+%3E+Noise.;Depth+%3E+Hype.;Strategy+%3E+Speed.;Calm.+Calculated.+Consistent.;Thinking+10+steps+ahead." />
-</p>
-
-<p align="center">
-“Everyone is equal in front of death.” – Johan Liebert
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=System+Thinking.;Scalable+Architecture.;DSA+Enthusiast.;Calm.+Focused.+Consistent." />
 </p>
 
 ---
 
-## 🧩 About Me
+## 👨‍💻 About Me
 
 - 🎓 4th Semester ISE Student  
-- 📊 CGPA: **9.45 (current)**  
-- 🧠 Strong in **Data Structures & Algorithms (C++)**
-- 🚀 Hackathon Builder | Product-Oriented Developer  
-- 🏗️ I build systems — not just assignments  
+- 📊 Current CGPA: **9.45**
+- 💻 Strong foundation in **Data Structures & Algorithms (C++)**
+- 🏗️ Interested in scalable backend systems and clean architecture  
+- 🚀 Actively building production-oriented full stack applications  
 
-> “The only thing humans are equal in is death.”  
-> So build something that outlives you.
+I focus on writing code that is structured, maintainable, and scalable — not just functional.
 
 ---
 
-# ⚔️ Technical Arsenal
+# ⚙️ Technical Stack
 
 ## 💻 Languages
 
@@ -106,62 +101,42 @@
 
 ---
 
-## 🧠 Core Strength
+## 🧠 Core Strengths
 
 - Advanced DSA (C++)
 - Competitive Programming
 - Backend-Oriented Logic
-- Structured System Thinking
+- Structured System Design
 - Clean & Maintainable Code
 
 ---
 
-## 🔥 Current Focus
+## 🎯 Current Focus
 
-- 📌 Advanced DSA & Contests  
-- 📌 System Design Fundamentals  
-- 📌 Production-grade full stack apps  
-- 📌 Scalable backend architecture  
-
----
-
-## 🎌 Monster Influence
-
-Favorite Anime: **Monster**
-
-Why?
-
-- Psychological depth  
-- Quiet intelligence  
-- Long-term strategic thinking  
-- Control over chaos  
-
-> “When you're in the darkness, you only sink deeper into it.  
-> Keep the light shining.” – Johan Liebert
-
-Not loud.  
-Not impulsive.  
-Always calculated.
+- Advanced DSA & Contests  
+- Backend scalability fundamentals  
+- System design principles  
+- Building real-world deployable applications  
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VenkateshReddy007&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=VenkateshReddy007&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VenkateshReddy007&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=VenkateshReddy007&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VenkateshReddy007&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VenkateshReddy007&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/VenkateshReddy007/VenkateshReddy007/output/github-contribution-grid-snake-dark.svg" />
@@ -177,21 +152,12 @@ Always calculated.
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/venkatesh-reddy-k-6aba34333/">
     <img src="https://img.shields.io/badge/LinkedIn-Venkatesh%20Reddy-blue?style=for-the-badge&logo=linkedin" />
   </a>
-</p>
-
----
-
-## 🧠 Philosophy
-
-Build like it matters.  
-Learn like you're behind.  
-Compete like you're underestimated.  
-Stay calm. Stay dangerous.
+</p> 
 
 ---
