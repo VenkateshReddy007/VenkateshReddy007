@@ -120,7 +120,7 @@ writing_code : "Structured. Maintainable. Scalable."
 |---|---|---|
 | IISc Bangalore CP Contest (CSA) | ![](https://img.shields.io/badge/Rank_23-gold?style=flat-square) | 2026 |
 | Agentathon — RIT TechFest 2026 | ![](https://img.shields.io/badge/1st_Runner_Up-silver?style=flat-square) | 2026 |
-| ISpy Event (CTF + Treasure Hunt) — RIT TechFest | ![](https://img.shields.io/badge/Top_10_of_200%2B_Teams-blue?style=flat-square) | 2026 |
+| ISpy Event (CTF + Treasure Hunt) — RIT TechFest | ![](https://img.shields.io/badge/Top_10_of_200%2B_Teams-blue?style=flat-square) | 2025 |
 | Limitless Minds Hackathon | ![](https://img.shields.io/badge/Finalist-green?style=flat-square) | 2025 |
 
 ---
