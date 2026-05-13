@@ -119,10 +119,12 @@ writing_code : "Structured. Maintainable. Scalable."
 | 🏆 Achievement | Result | Year |
 |---|---|---|
 | IISc Bangalore CP Contest (CSA) | ![](https://img.shields.io/badge/Rank_23-gold?style=flat-square) | 2026 |
+| Innovex 2.0 Hackathon — Bangalore City University | ![](https://img.shields.io/badge/Winner-gold?style=flat-square) | 2026 |
 | Agentathon — RIT TechFest 2026 | ![](https://img.shields.io/badge/1st_Runner_Up-silver?style=flat-square) | 2026 |
-| ISpy Event (CTF + Treasure Hunt) — RIT TechFest | ![](https://img.shields.io/badge/Top_10_of_200%2B_Teams-blue?style=flat-square) | 2025 |
-| Limitless Minds Hackathon | ![](https://img.shields.io/badge/Finalist-green?style=flat-square) | 2025 |
-
+| Altaria National Hackathon (Blockchain + AI) at DSCE | ![](https://img.shields.io/badge/2nd_Runner_Up-bronze?style=flat-square) | 2026 |
+| ISpy Event (CTF + Treasure Hunt) — RIT TechFest | ![](https://img.shields.io/badge/Top_10_of_200%2B_Teams-blue?style=flat-square) | 2026 |
+| NMIT Hacks 2026 | ![](https://img.shields.io/badge/Top_200_of_7200%2B-green?style=flat-square) | 2026 |
+| Limitless Minds Hackathon | ![](https://img.shields.io/badge/Top_7-green?style=flat-square) | 2025 |
 ---
 
 <p align="center">
