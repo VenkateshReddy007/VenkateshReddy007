@@ -69,10 +69,10 @@ writing_code : "Structured. Maintainable. Scalable."
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=VenkateshReddy007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=050814&title_color=58A6FF&icon_color=58A6FF&text_color=ffffff" alt="GitHub Stats" height="195px" />
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=VenkateshReddy007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=050814&title_color=58A6FF&icon_color=58A6FF&text_color=ffffff" alt="GitHub Stats" height="195px" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VenkateshReddy007&layout=compact&theme=tokyonight&hide_border=true&bg_color=050814&title_color=58A6FF&text_color=ffffff&langs_count=8" alt="Top Languages" height="195px" />
+    <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=VenkateshReddy007&layout=compact&theme=tokyonight&hide_border=true&bg_color=050814&title_color=58A6FF&text_color=ffffff&langs_count=8" alt="Top Languages" height="195px" />
   </a>
 </p>
 
@@ -161,14 +161,8 @@ writing_code : "Structured. Maintainable. Scalable."
 | Role | Organization | Period |
 |---|---|---|
 | 💻 SDE Intern | **Soven Developer** | Aug 2026 – Present |
-| 🤖 Technical Core Member | **DeepStation RIT** | Jan 2026 – Present |
-| ⚛️ Technical Core Member | **QuantumRIT** | Mar 2026 – Present |
-| 🌐 IT Associate | **RIT MUNSOC** | Dec 2025 – Present |
 
 - **Soven Developer** — Developing and maintaining front-end and back-end components in production, integrating services with databases, optimizing performance, and conducting code reviews.
-- **DeepStation RIT** — Contributing to AI/ML projects and facilitating peer learning sessions in the college's technical community.
-- **QuantumRIT** — Exploring NIST-standardized lattice-based post-quantum cryptography schemes alongside AI/ML collaborative research.
-- **RIT MUNSOC** — Managing digital infrastructure, website, registrations, and event tech systems for Model United Nations events.
 
 ---
 
