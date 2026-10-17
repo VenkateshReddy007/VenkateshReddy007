@@ -43,16 +43,24 @@ philosophy  : "Structured. Maintainable. Scalable."
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:302b63,100:0f0c29&height=60&section=header&text=TECH%20STACK&fontSize=26&fontColor=ffffff&stroke=58A6FF&strokeWidth=1" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:302b63,100:0f0c29&height=60&section=header&text=TECH%20ARSENAL&fontSize=26&fontColor=ffffff&stroke=58A6FF&strokeWidth=1" width="100%" />
 </p>
 
 <div align="center">
 
+**Languages**
+<br/>
 [![Languages](https://skillicons.dev/icons?i=py,js,ts,java,cpp,c,solidity&perline=7)](https://skillicons.dev)
+
+**Frameworks & Web**
 <br/>
 [![Web](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,tailwind&perline=6)](https://skillicons.dev)
+
+**Databases**
 <br/>
 [![DB](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase,sqlite&perline=6)](https://skillicons.dev)
+
+**Tools & Deployment**
 <br/>
 [![Tools](https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,vscode,vercel,netlify&perline=8)](https://skillicons.dev)
 
@@ -61,61 +69,58 @@ philosophy  : "Structured. Maintainable. Scalable."
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:302b63,100:0f0c29&height=60&section=header&text=PROJECTS&fontSize=26&fontColor=ffffff&stroke=58A6FF&strokeWidth=1" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:302b63,100:0f0c29&height=60&section=header&text=PINNED%20PROJECTS&fontSize=26&fontColor=ffffff&stroke=58A6FF&strokeWidth=1" width="100%" />
 </p>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
 ### 🏥 MediChain
-Healthcare data platform for multimodal medical records, with AI processing and blockchain-backed access control.
+**AI-native healthcare data platform**
 
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776ab)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=00bfff)
 ![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169e1)
 ![Stellar](https://img.shields.io/badge/Stellar-0d1117?style=for-the-badge&logo=stellar&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ed)
 
-</td>
-<td width="50%" valign="top">
+> Stores and processes multimodal medical records with blockchain-backed access control.
 
 ### 📜 RegGraph AI
-Real-time regulatory data pipeline with a dual-rail check that validates AI output against a deterministic rule engine.
+**Real-time regulatory data pipeline**
 
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776ab)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=00bfff)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169e1)
 ![Redis](https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=dc382d)
 ![LangGraph](https://img.shields.io/badge/LangGraph-0d1117?style=for-the-badge&logo=langchain&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ed)
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+> Validates AI outputs against a deterministic rule engine on live regulatory data.
 
 ### 🧠 ADIRE-Omega
-Distributed agentic backend running a 6-node LangGraph decision pipeline, benchmarked in an adversarial grid environment.
+**Distributed agentic RL backend**
 
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776ab)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=00bfff)
 ![LangGraph](https://img.shields.io/badge/LangGraph-0d1117?style=for-the-badge&logo=langchain&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169e1)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ed)
 
-</td>
-<td width="50%" valign="top">
+> A 6-node LangGraph decision pipeline benchmarked in an adversarial grid environment.
 
 ### 🏡 LandChain
-Property tokenization dApp on Polygon with a multi-step trust matrix, AI fraud detection and IPFS deed storage.
+**Decentralized real estate protocol**
 
 ![Solidity](https://img.shields.io/badge/Solidity-0d1117?style=for-the-badge&logo=solidity&logoColor=white)
 ![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61dafb)
 ![Polygon](https://img.shields.io/badge/Polygon-0d1117?style=for-the-badge&logo=polygon&logoColor=8247e5)
 ![IPFS](https://img.shields.io/badge/IPFS-0d1117?style=for-the-badge&logo=ipfs&logoColor=65c2cb)
+![Gemini](https://img.shields.io/badge/Gemini_AI-0d1117?style=for-the-badge&logo=google&logoColor=4285f4)
 
-</td>
-</tr>
-</table>
+> Tokenizes property on Polygon with AI fraud detection and IPFS deed storage.
+
+</div>
 
 ---
 
@@ -123,7 +128,9 @@ Property tokenization dApp on Polygon with a multi-step trust matrix, AI fraud d
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:302b63,100:0f0c29&height=60&section=header&text=EXPERIENCE&fontSize=26&fontColor=ffffff&stroke=58A6FF&strokeWidth=1" width="100%" />
 </p>
 
-**💻 SDE Intern, Soven Developer** · Aug 2026 – Present
+| Role | Organization | Period |
+|---|---|---|
+| 💻 SDE Intern | **Soven Developer** | Aug 2026 – Present |
 
 Building FastAPI + PostgreSQL services and Next.js features in production, optimizing queries, reviewing code and working on Git + Docker deployment workflows.
 
@@ -146,7 +153,11 @@ Building FastAPI + PostgreSQL services and Next.js features in production, optim
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:302b63,100:0f0c29&height=60&section=header&text=GITHUB%20ACTIVITY&fontSize=26&fontColor=ffffff&stroke=58A6FF&strokeWidth=1" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:302b63,100:0f0c29&height=60&section=header&text=GITHUB%20ANALYTICS&fontSize=26&fontColor=ffffff&stroke=58A6FF&strokeWidth=1" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VenkateshReddy007&theme=tokyonight&no-bg=true&margin-w=15&margin-h=15&row=1&column=7" width="100%" alt="Trophy Wall" />
 </p>
 
 <p align="center">
@@ -159,10 +170,24 @@ Building FastAPI + PostgreSQL services and Next.js features in production, optim
 </p>
 
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VenkateshReddy007&bg_color=0d1117&color=ffffff&line=58A6FF&point=58A6FF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:302b63,100:0f0c29&height=60&section=header&text=GITHUB%20ACTIVITY&fontSize=26&fontColor=ffffff&stroke=58A6FF&strokeWidth=1" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/VenkateshReddy007/VenkateshReddy007/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:302b63,100:0f0c29&height=60&section=header&text=CONNECT&fontSize=26&fontColor=ffffff&stroke=58A6FF&strokeWidth=1" width="100%" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/venkatesh-reddy-k-6aba34333/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
